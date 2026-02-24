@@ -24,7 +24,7 @@ Procedural Dependency Modeling:
 
 Data Model Proof:
 
-  The relational structure and data flows are documented in the **[AIR GoldCopy ERD (PDF)](AIR_GoldCopy_ERD.pdf)** included in this repository.
+  The relational structure and data flows are documented in the **[AIR Gold Copy](https://kirk-allen-ryan.github.io/AIR/AIR.GC_ddr/AIR.GC_n.html)** included in this repository.
 
 System Demo:
 
